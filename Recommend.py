@@ -125,6 +125,10 @@ class FindDistance(object):
             df2.imdbVotes.fillna(random.randint(8000, 12000), inplace=True)
             df2.Genre.fillna("-", inplace=True)
 
+            df2.to_csv("updated.csv", sep=',')
+
+
+
     '''
 		This method is used for extracting recommended movies for a user
 		1. Get all the movies liked by the user @genreList

@@ -15,16 +15,17 @@ required.packs = c("twitteR",
                    "wordcloud",          # Create wordclouds.
                    "data.table",         # Data tables.
                    "RColorBrewer",      # Palettes for visualisation.      
-                   "dplyr"                   
+                   "dplyr",
+                   "corrplot"
 )
-
+install.packages("corrplot")
 
 # Install the required packages if missing, then load them.
 sapply(required.packs, function(pack) {
   if(!(pack %in% installed.packages())) {install.packages(pack)}
   require(pack, character.only=TRUE)
 })
-
+library(car)
 library(RJSONIO)
 source("/Users/abhishekchoudhary/MachineLearning/Graphmultiplot.R")
 #tt <- htmlParse('http://www.omdbapi.com/?t=The+dark+knight&y=&plot=short&r=xml&tomatoes=true')
@@ -70,17 +71,43 @@ updated_name$group <- cut(updated_name$Freq, breaks = seq(0, max(updated_name$Fr
 
 ggplot(updated_name, aes(x = group,fill=group)) + geom_bar()
 
+#http://stackoverflow.com/questions/14363085/invalid-multibyte-string-in-read-csv
+movies <- read.csv("/Users/abhishekchoudhary/Work/python/recommend/updated1.csv",
+                   header=TRUE, stringsAsFactors=FALSE,fileEncoding="latin1")
 
-
-
-movies <- read.csv("D:/Work/Python/DataMining/git/movies.csv")
+#http://www.r-bloggers.com/model-validation-interpreting-residual-plots/
+#http://rtutorialseries.blogspot.ie/2009/12/r-tutorial-series-graphic-analysis-of.html
 tableMov <- read.table(movies$imdbRating)
 year_table = as.data.frame(table(movies$imdbRating))
 year_table[year_table$Freq > 300,]
 
+model <- lm(imdbVotes ~ imdbRating + tomatoRating + tomatoUserReviews+ I(genre1 ** 1.0) +I(genre2 ** 1.0)+I(genre3 ** 4.0), data = movies)
+res <- qplot(fitted(model), resid(model))
+res+geom_hline(yintercept=0)
+#"imdbVotes ~ imdbRating + tomatoRating + tomatoUserReviews+ I(genre1 ** 1.0) +I(genre2 ** 1.0)+I(genre3 ** 4.0)", data=df2)
+#method = "lm")
+
+residualPlots(model, ~ 1, fitted=TRUE) #Residuals vs fitted
+qqnorm(resid(model))
+qqline(resid(model))
+avPlots(model, id.n=2, id.cex=0.7)
+
+hist(resid(model), freq = FALSE)
+curve(dnorm, add = TRUE)
+
+
+probDist <- pnorm(resid(model))
+plot(ppoints(length(resid(model))), sort(probDist), main = "PP Plot", xlab = "Observed Probability", ylab = "Expected Probability")
+abline(0,1)
 
 
 
+
+
+qplot(imdbVotes,imdbRating + tomatoRating + tomatoUserReviews, data = model, geom = c("point", "smooth"),
+      method = "lm")
+
+confint(model,level=0.95)
 ##############################Regression#######################################
 library(ggplot2)
 library(xtable)
