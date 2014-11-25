@@ -252,7 +252,6 @@ class FindDistance(object):
         movie1DF = df2[df2.MOVIE == movie1]
         movie2DF = df2[df2.MOVIE == movie2]
 
-        # print "movie1 ",movie1
 
         rating1 = (float(movie1DF.iloc[0]['imdbRating']), float(
             movie1DF.iloc[0]['tomatoRating']))
@@ -362,7 +361,7 @@ csv = CSVLoader("movies.csv")
 df2 = csv.loadcsv()
 print df2.head()
 
-user1, user2, user3 = "Berchman Mathews", "Zuber Ahmed", "Saiyed Farhan"
+user1, user2, user3, user4 = "Berchman Mathews", "Zuber Ahmed", "Gaurav Shrivastava","Dhruv Berry"
 
 
 # http://docs.scipy.org/doc/scipy-0.14.0/reference/spatial.distance.html
@@ -372,18 +371,18 @@ val2 = (9, 14)
 
 findDistance = FindDistance(df, df2)
 
-output = findDistance.compareUserMovieWithSuggestedList(user2)
-print output.head()
+#output = findDistance.compareUserMovieWithSuggestedList(user3)
+#print output.head()
 #commonMovies = distance.match("The Butterfly Effect","Hannibal")
 # print "Basic Euclea..Test ",commonMovies
-'''
+
 suggestedMoviesList = findDistance.commonmovies(user3)
 print "AFTER BAKBAJI \n\nTotal Movies Found %s \n\nLength %s -- %s"%(suggestedMoviesList.head(),len(suggestedMoviesList),suggestedMoviesList.MOVIE.irow(1))
 print "\n\n\n=------------------------------="
 print "DISTANCE CALCULATION ",findDistance.recommendMovie(user1,suggestedMoviesList.MOVIE.irow(1))
 
 output = findDistance.findSimilarityBetweenMovies(suggestedMoviesList.MOVIE[0:10])
-'''
+
 
 HEADER = '''
 <html>
@@ -397,7 +396,7 @@ FOOTER = '''
 </html>
 '''
 
-with open('multiple.html', 'w') as f:
+with open('output_1.html', 'w') as f:
     f.write(HEADER)
     f.write(output.to_html(classes='container'))
     f.write(FOOTER)
@@ -408,7 +407,7 @@ with open('multiple.html', 'w') as f:
 
 #commonusers = distance.common_watchers(movie1,movie2)
 # print "Users in the sameset: %d" % len(commonusers)
-# print list(commonusers)
+#print list(commonusers)
 
 #user1 = distance.getCommonUserData(movie1,commonusers)
 #user2 = distance.getCommonUserData(movie2,commonusers)
