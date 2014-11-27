@@ -1,0 +1,2450 @@
+{
+  "previous_cursor": 0,
+  "previous_cursor_str": "0",
+  "next_cursor": 1483871396973006443,
+  "users": [
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "333333",
+      "default_profile_image": false,
+      "id": 1535945444,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000117104065/191a4740ab36bf053f267556af62d168.jpeg",
+      "verified": false,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/463308004117336064/wRI7O9Oq_normal.jpeg",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/1PeqLjfc6d",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://aureusanalytics.com/",
+              "display_url": "aureusanalytics.com"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 557,
+      "profile_sidebar_border_color": "FFFFFF",
+      "id_str": "1535945444",
+      "profile_background_color": "C0DEED",
+      "listed_count": 35,
+      "status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "Aureus Analytics becomes hot news again! Read more http://t.co/BFeUWGEama #bigdata #analytics",
+        "in_reply_to_status_id": null,
+        "id": 537945760172478464,
+        "favorite_count": 0,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [],
+          "hashtags": [
+            {
+              "indices": [
+                74,
+                82
+              ],
+              "text": "bigdata"
+            },
+            {
+              "indices": [
+                83,
+                93
+              ],
+              "text": "analytics"
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/BFeUWGEama",
+              "indices": [
+                51,
+                73
+              ],
+              "expanded_url": "http://www.iamwire.com/2014/11/deal-roundup/105145",
+              "display_url": "iamwire.com/2014/11/deal-r…"
+            }
+          ]
+        },
+        "in_reply_to_screen_name": null,
+        "id_str": "537945760172478464",
+        "retweet_count": 1,
+        "in_reply_to_user_id": null,
+        "favorited": false,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Thu Nov 27 12:27:18 +0000 2014",
+        "in_reply_to_status_id_str": null,
+        "place": null
+      },
+      "is_translation_enabled": false,
+      "utc_offset": null,
+      "statuses_count": 1638,
+      "description": "Advanced #BigData #Analytics platform and products for the #Insurance, #Banking and #Healthcare industry",
+      "friends_count": 251,
+      "location": "Singapore & Mumbai",
+      "profile_link_color": "0084B4",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/463308004117336064/wRI7O9Oq_normal.jpeg",
+      "following": true,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1535945444/1416219513",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000117104065/191a4740ab36bf053f267556af62d168.jpeg",
+      "name": "Aureus Analytics",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 144,
+      "screen_name": "AureusAnalytics",
+      "notifications": false,
+      "url": "http://t.co/1PeqLjfc6d",
+      "created_at": "Fri Jun 21 07:12:25 +0000 2013",
+      "contributors_enabled": false,
+      "time_zone": null,
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "663B12",
+      "default_profile_image": false,
+      "id": 1245699895,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/532134925135130624/4uIaAFsw.jpeg",
+      "verified": true,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/532138605158744064/_4lzDTXE_normal.jpeg",
+      "profile_sidebar_fill_color": "DAECF4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/czZFmWu2k8",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://www.rte.ie/about/en/information-and-feedback/2013/0312/376270-twitter",
+              "display_url": "rte.ie/about/en/infor…"
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/Gzsd1VIk2x",
+              "indices": [
+                138,
+                160
+              ],
+              "expanded_url": "http://www.rte.ie/explore",
+              "display_url": "rte.ie/explore"
+            }
+          ]
+        }
+      },
+      "followers_count": 112599,
+      "profile_sidebar_border_color": "FFFFFF",
+      "id_str": "1245699895",
+      "profile_background_color": "C6E2EE",
+      "listed_count": 297,
+      "status": {
+        "lang": "es",
+        "favorited": false,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [
+            {
+              "id": 406900550,
+              "indices": [
+                105,
+                112
+              ],
+              "id_str": "406900550",
+              "screen_name": "RTEOne",
+              "name": "RTÉ One"
+            },
+            {
+              "id": 33231737,
+              "indices": [
+                127,
+                136
+              ],
+              "id_str": "33231737",
+              "screen_name": "RTEGuide",
+              "name": "RTE Guide"
+            }
+          ],
+          "hashtags": [
+            {
+              "indices": [
+                114,
+                126
+              ],
+              "text": "tvhighlight"
+            }
+          ],
+          "urls": []
+        },
+        "contributors": null,
+        "truncated": false,
+        "text": "Ó Chúil Aodha Go hOileán Í - From Coolea to Iona, follows the Coolea Men’s Choir over 2 months, 10.15pm, @RTEOne  #tvhighlight @RTEGuide",
+        "created_at": "Thu Nov 27 22:01:37 +0000 2014",
+        "retweeted": false,
+        "in_reply_to_status_id_str": null,
+        "coordinates": null,
+        "in_reply_to_user_id_str": null,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_screen_name": null,
+        "id_str": "538090292021579776",
+        "place": null,
+        "retweet_count": 0,
+        "geo": null,
+        "id": 538090292021579776,
+        "favorite_count": 0,
+        "in_reply_to_user_id": null
+      },
+      "is_translation_enabled": false,
+      "utc_offset": null,
+      "statuses_count": 14487,
+      "description": "Raidió Teilifís Éireann, Ireland's National Public Service Multi-Media Organisation | Click link for other RTÉ Twitter accounts | Explore http://t.co/Gzsd1VIk2x",
+      "friends_count": 21255,
+      "location": "Dublin-Cork-Regional & Global",
+      "profile_link_color": "1F98C7",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/532138605158744064/_4lzDTXE_normal.jpeg",
+      "following": true,
+      "geo_enabled": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1245699895/1415706007",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/532134925135130624/4uIaAFsw.jpeg",
+      "name": "RTÉ ",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 3021,
+      "screen_name": "rte",
+      "notifications": false,
+      "url": "http://t.co/czZFmWu2k8",
+      "created_at": "Wed Mar 06 09:33:16 +0000 2013",
+      "contributors_enabled": false,
+      "time_zone": null,
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "333333",
+      "default_profile_image": false,
+      "id": 150246405,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/155028000/thejournal-twitterbg.jpg",
+      "verified": true,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/419405410995412992/Xs0mu2JF_normal.jpeg",
+      "profile_sidebar_fill_color": "F7F7F7",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/nM175qvbzR",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://thejournal.ie/",
+              "display_url": "thejournal.ie"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 228955,
+      "profile_sidebar_border_color": "FFFFFF",
+      "id_str": "150246405",
+      "profile_background_color": "DEE1E6",
+      "listed_count": 1690,
+      "status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "What are the best towns in Ireland for tourism? http://t.co/9NTAvDTrMI (Pic: Ben Crowe) http://t.co/fdI9qjM7Di",
+        "in_reply_to_status_id": null,
+        "id": 538090643642261504,
+        "favorite_count": 5,
+        "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [],
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "http://t.co/9NTAvDTrMI",
+              "indices": [
+                48,
+                70
+              ],
+              "expanded_url": "http://jrnl.to/1Cm3vXa",
+              "display_url": "jrnl.to/1Cm3vXa"
+            }
+          ],
+          "media": [
+            {
+              "expanded_url": "http://twitter.com/thejournal_ie/status/538090643642261504/photo/1",
+              "display_url": "pic.twitter.com/fdI9qjM7Di",
+              "url": "http://t.co/fdI9qjM7Di",
+              "media_url_https": "https://pbs.twimg.com/media/B3euluNCIAEIJAW.jpg",
+              "id_str": "538090643575152641",
+              "sizes": {
+                "small": {
+                  "h": 196,
+                  "resize": "fit",
+                  "w": 340
+                },
+                "large": {
+                  "h": 520,
+                  "resize": "fit",
+                  "w": 901
+                },
+                "medium": {
+                  "h": 346,
+                  "resize": "fit",
+                  "w": 600
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "indices": [
+                88,
+                110
+              ],
+              "type": "photo",
+              "id": 538090643575152641,
+              "media_url": "http://pbs.twimg.com/media/B3euluNCIAEIJAW.jpg"
+            }
+          ]
+        },
+        "in_reply_to_screen_name": null,
+        "id_str": "538090643642261504",
+        "retweet_count": 3,
+        "in_reply_to_user_id": null,
+        "favorited": false,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Thu Nov 27 22:03:01 +0000 2014",
+        "in_reply_to_status_id_str": null,
+        "place": null
+      },
+      "is_translation_enabled": false,
+      "utc_offset": 0,
+      "statuses_count": 98187,
+      "description": "Real-time news and opinion from Ireland's no.1 online news source",
+      "friends_count": 709,
+      "location": "Ireland",
+      "profile_link_color": "006BA0",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/419405410995412992/Xs0mu2JF_normal.jpeg",
+      "following": true,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/150246405/1348045299",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/155028000/thejournal-twitterbg.jpg",
+      "name": "TheJournal.ie",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 151,
+      "screen_name": "thejournal_ie",
+      "notifications": false,
+      "url": "http://t.co/nM175qvbzR",
+      "created_at": "Mon May 31 13:08:52 +0000 2010",
+      "contributors_enabled": false,
+      "time_zone": "Dublin",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "333333",
+      "default_profile_image": false,
+      "id": 491316960,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "verified": false,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000788407470/2290756cd37a7c0bfacca53202ea80d1_normal.jpeg",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/teH1pB5zU7",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://www.visiondummy.com",
+              "display_url": "visiondummy.com"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 377,
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "491316960",
+      "profile_background_color": "C0DEED",
+      "listed_count": 19,
+      "status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "RT @edwindjonge: @vincent_spruyt Great! Stacking HMM on top of DBN on top of Deep Learning to get sensible data. #StrataHadoop",
+        "in_reply_to_status_id": null,
+        "id": 535512588202045440,
+        "favorite_count": 0,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [
+            {
+              "id": 890677933,
+              "indices": [
+                3,
+                15
+              ],
+              "id_str": "890677933",
+              "screen_name": "edwindjonge",
+              "name": "Edwin de Jonge"
+            },
+            {
+              "id": 491316960,
+              "indices": [
+                17,
+                32
+              ],
+              "id_str": "491316960",
+              "screen_name": "vincent_spruyt",
+              "name": "Vincent Spruyt"
+            }
+          ],
+          "hashtags": [
+            {
+              "indices": [
+                113,
+                126
+              ],
+              "text": "StrataHadoop"
+            }
+          ],
+          "urls": []
+        },
+        "in_reply_to_screen_name": null,
+        "id_str": "535512588202045440",
+        "retweet_count": 1,
+        "in_reply_to_user_id": null,
+        "favorited": false,
+        "retweeted_status": {
+          "lang": "en",
+          "favorited": false,
+          "entities": {
+            "symbols": [],
+            "user_mentions": [
+              {
+                "id": 491316960,
+                "indices": [
+                  0,
+                  15
+                ],
+                "id_str": "491316960",
+                "screen_name": "vincent_spruyt",
+                "name": "Vincent Spruyt"
+              }
+            ],
+            "hashtags": [
+              {
+                "indices": [
+                  96,
+                  109
+                ],
+                "text": "StrataHadoop"
+              }
+            ],
+            "urls": []
+          },
+          "contributors": null,
+          "truncated": false,
+          "text": "@vincent_spruyt Great! Stacking HMM on top of DBN on top of Deep Learning to get sensible data. #StrataHadoop",
+          "created_at": "Thu Nov 20 15:34:26 +0000 2014",
+          "retweeted": false,
+          "in_reply_to_status_id_str": null,
+          "coordinates": null,
+          "in_reply_to_user_id_str": "491316960",
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_screen_name": "vincent_spruyt",
+          "id_str": "535456138188578816",
+          "place": null,
+          "retweet_count": 1,
+          "geo": null,
+          "id": 535456138188578816,
+          "favorite_count": 1,
+          "in_reply_to_user_id": 491316960
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "lang": "en",
+        "created_at": "Thu Nov 20 19:18:45 +0000 2014",
+        "in_reply_to_status_id_str": null,
+        "place": null
+      },
+      "is_translation_enabled": false,
+      "utc_offset": 3600,
+      "statuses_count": 214,
+      "description": "Head of Deep Learning @Arguslabs. Machine learning aficionado, passionate about deep learning, Bayesian filtering, and data science in general.",
+      "friends_count": 312,
+      "location": "Antwerp",
+      "profile_link_color": "0084B4",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000788407470/2290756cd37a7c0bfacca53202ea80d1_normal.jpeg",
+      "following": true,
+      "geo_enabled": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/491316960/1401215707",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "name": "Vincent Spruyt",
+      "lang": "nl",
+      "profile_background_tile": false,
+      "favourites_count": 102,
+      "screen_name": "vincent_spruyt",
+      "notifications": false,
+      "url": "http://t.co/teH1pB5zU7",
+      "created_at": "Mon Feb 13 14:08:52 +0000 2012",
+      "contributors_enabled": false,
+      "time_zone": "Brussels",
+      "protected": false,
+      "default_profile": true,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": false,
+      "profile_text_color": "333333",
+      "default_profile_image": false,
+      "id": 167346791,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "verified": false,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106397616/mxlean_100x100_normal.png",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Dsm7QinhZG",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://www.reddit.com/r/MachineLearning/",
+              "display_url": "reddit.com/r/MachineLearn…"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 5345,
+      "profile_sidebar_border_color": "CEE3F8",
+      "id_str": "167346791",
+      "profile_background_color": "CEE3F8",
+      "listed_count": 318,
+      "status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "Vladimir Vapnik has joined Facebook AI Research http://t.co/NcVFQWkEBN",
+        "in_reply_to_status_id": null,
+        "id": 537413567134195712,
+        "favorite_count": 8,
+        "source": "<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [],
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "http://t.co/NcVFQWkEBN",
+              "indices": [
+                48,
+                70
+              ],
+              "expanded_url": "http://bit.ly/11WF2Xo",
+              "display_url": "bit.ly/11WF2Xo"
+            }
+          ]
+        },
+        "in_reply_to_screen_name": null,
+        "id_str": "537413567134195712",
+        "retweet_count": 10,
+        "in_reply_to_user_id": null,
+        "favorited": false,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "hu",
+        "created_at": "Wed Nov 26 01:12:33 +0000 2014",
+        "in_reply_to_status_id_str": null,
+        "place": null
+      },
+      "is_translation_enabled": false,
+      "utc_offset": -10800,
+      "statuses_count": 5016,
+      "description": "/r/MachineLearning: Research, News, Discussions, Software on: Machine Learning, Data Mining, Text Processing, Information Retrieval, Search Computing and alike",
+      "friends_count": 4004,
+      "location": "",
+      "profile_link_color": "0084B4",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1106397616/mxlean_100x100_normal.png",
+      "following": true,
+      "geo_enabled": false,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "name": "ML @ REDDIT",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 4,
+      "screen_name": "mxlearn",
+      "notifications": false,
+      "url": "http://t.co/Dsm7QinhZG",
+      "created_at": "Fri Jul 16 10:26:15 +0000 2010",
+      "contributors_enabled": false,
+      "time_zone": "Greenland",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "663B12",
+      "default_profile_image": false,
+      "id": 16737418,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/806906809/eea7656541adf7bfc68d22842fd55696.png",
+      "verified": true,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3345249505/4713808b9c7f9e6db4cf68ad7601d037_normal.png",
+      "profile_sidebar_fill_color": "DAECF4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/1A4gvQ350s",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://www.irishtimes.com/business",
+              "display_url": "irishtimes.com/business"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 39662,
+      "profile_sidebar_border_color": "FFFFFF",
+      "id_str": "16737418",
+      "profile_background_color": "1190AE",
+      "listed_count": 761,
+      "status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "Government + Housing. New podcast w @TomLyonsBiz @CiaranHancock1 @fiachkelly @davidhall75 http://t.co/mVjt6YWOeA http://t.co/8Hg5ai0ZV9",
+        "in_reply_to_status_id": null,
+        "id": 538082136801415169,
+        "favorite_count": 3,
+        "source": "<a href=\"http://sendible.com\" rel=\"nofollow\">Sendible</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [
+            {
+              "id": 382158392,
+              "indices": [
+                36,
+                48
+              ],
+              "id_str": "382158392",
+              "screen_name": "TomLyonsBiz",
+              "name": "Tom Lyons"
+            },
+            {
+              "id": 1702066567,
+              "indices": [
+                49,
+                64
+              ],
+              "id_str": "1702066567",
+              "screen_name": "CiaranHancock1",
+              "name": "Ciaran Hancock"
+            },
+            {
+              "id": 117905850,
+              "indices": [
+                65,
+                76
+              ],
+              "id_str": "117905850",
+              "screen_name": "fiachkelly",
+              "name": "Fiach Kelly"
+            },
+            {
+              "id": 412753204,
+              "indices": [
+                77,
+                89
+              ],
+              "id_str": "412753204",
+              "screen_name": "davidhall75",
+              "name": "David Hall"
+            }
+          ],
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "http://t.co/mVjt6YWOeA",
+              "indices": [
+                90,
+                112
+              ],
+              "expanded_url": "http://iti.ms/1l4VkoL",
+              "display_url": "iti.ms/1l4VkoL"
+            }
+          ],
+          "media": [
+            {
+              "expanded_url": "http://twitter.com/IrishTimesBiz/status/538082136801415169/photo/1",
+              "display_url": "pic.twitter.com/8Hg5ai0ZV9",
+              "url": "http://t.co/8Hg5ai0ZV9",
+              "media_url_https": "https://pbs.twimg.com/media/B3em2jVIgAAKMP-.png",
+              "id_str": "538082136621088768",
+              "sizes": {
+                "large": {
+                  "h": 378,
+                  "resize": "fit",
+                  "w": 755
+                },
+                "small": {
+                  "h": 170,
+                  "resize": "fit",
+                  "w": 340
+                },
+                "medium": {
+                  "h": 300,
+                  "resize": "fit",
+                  "w": 600
+                },
+                "thumb": {
+                  "h": 150,
+                  "resize": "crop",
+                  "w": 150
+                }
+              },
+              "indices": [
+                113,
+                135
+              ],
+              "type": "photo",
+              "id": 538082136621088768,
+              "media_url": "http://pbs.twimg.com/media/B3em2jVIgAAKMP-.png"
+            }
+          ]
+        },
+        "in_reply_to_screen_name": null,
+        "id_str": "538082136801415169",
+        "retweet_count": 1,
+        "in_reply_to_user_id": null,
+        "favorited": false,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Thu Nov 27 21:29:13 +0000 2014",
+        "in_reply_to_status_id_str": null,
+        "place": null
+      },
+      "is_translation_enabled": false,
+      "utc_offset": 0,
+      "statuses_count": 34252,
+      "description": "The latest news from business desk of The Irish Times in Dublin, with occasional commentary and interaction. Now with lists for real time news",
+      "friends_count": 842,
+      "location": "Ireland",
+      "profile_link_color": "1190AE",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3345249505/4713808b9c7f9e6db4cf68ad7601d037_normal.png",
+      "following": true,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16737418/1354640975",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/806906809/eea7656541adf7bfc68d22842fd55696.png",
+      "name": "Irish Times Business",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 55,
+      "screen_name": "IrishTimesBiz",
+      "notifications": false,
+      "url": "http://t.co/1A4gvQ350s",
+      "created_at": "Tue Oct 14 13:02:12 +0000 2008",
+      "contributors_enabled": false,
+      "time_zone": "Dublin",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "333333",
+      "default_profile_image": false,
+      "id": 85648537,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "verified": false,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1621016161/BIG_normal.png",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/fUGzRrDpKn",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://www.sigkdd.org",
+              "display_url": "sigkdd.org"
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/Ool8EQTb66",
+              "indices": [
+                81,
+                103
+              ],
+              "expanded_url": "http://www.kdd.org/kdd2014/",
+              "display_url": "kdd.org/kdd2014/"
+            },
+            {
+              "url": "https://t.co/nkKgypVh8n",
+              "indices": [
+                105,
+                128
+              ],
+              "expanded_url": "https://www.facebook.com/SIGKDD",
+              "display_url": "facebook.com/SIGKDD"
+            }
+          ]
+        }
+      },
+      "followers_count": 2877,
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "85648537",
+      "profile_background_color": "C0DEED",
+      "listed_count": 151,
+      "status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "Watch #kdd2014 talks and videos! @kdd_news #kdd2015\nhttp://t.co/QEBh6FDkEo",
+        "in_reply_to_status_id": null,
+        "id": 537341066186596353,
+        "favorite_count": 6,
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [
+            {
+              "id": 85648537,
+              "indices": [
+                33,
+                42
+              ],
+              "id_str": "85648537",
+              "screen_name": "kdd_news",
+              "name": "SIGKDD + KDD 2014"
+            }
+          ],
+          "hashtags": [
+            {
+              "indices": [
+                6,
+                14
+              ],
+              "text": "kdd2014"
+            },
+            {
+              "indices": [
+                43,
+                51
+              ],
+              "text": "kdd2015"
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/QEBh6FDkEo",
+              "indices": [
+                52,
+                74
+              ],
+              "expanded_url": "http://buff.ly/1xYhTC9",
+              "display_url": "buff.ly/1xYhTC9"
+            }
+          ]
+        },
+        "in_reply_to_screen_name": null,
+        "id_str": "537341066186596353",
+        "retweet_count": 10,
+        "in_reply_to_user_id": null,
+        "favorited": false,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Tue Nov 25 20:24:28 +0000 2014",
+        "in_reply_to_status_id_str": null,
+        "place": null
+      },
+      "is_translation_enabled": false,
+      "utc_offset": -18000,
+      "statuses_count": 607,
+      "description": "The official feed for the ACM SIGKDD Community and KDD 2014 Conference #kdd2014 (http://t.co/Ool8EQTb66, https://t.co/nkKgypVh8n) by @polochau",
+      "friends_count": 352,
+      "location": "",
+      "profile_link_color": "B35C00",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1621016161/BIG_normal.png",
+      "following": true,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/85648537/1401418125",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "name": "SIGKDD + KDD 2014",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 76,
+      "screen_name": "kdd_news",
+      "notifications": false,
+      "url": "http://t.co/fUGzRrDpKn",
+      "created_at": "Tue Oct 27 20:01:15 +0000 2009",
+      "contributors_enabled": false,
+      "time_zone": "Eastern Time (US & Canada)",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "333333",
+      "default_profile_image": false,
+      "id": 2598162997,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "verified": false,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/483993250470969344/_hfa_iHG_normal.jpeg",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/LmkgNxzJp6",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://www.reddit.com/r/textdatamining/",
+              "display_url": "reddit.com/r/textdatamini…"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 3472,
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "2598162997",
+      "profile_background_color": "C0DEED",
+      "listed_count": 97,
+      "status": {
+        "lang": "en",
+        "favorited": false,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [
+            {
+              "id": 2767306536,
+              "indices": [
+                0,
+                16
+              ],
+              "id_str": "2767306536",
+              "screen_name": "dmfgtawz_EndWar",
+              "name": "FlightWarzoneDetectr"
+            }
+          ],
+          "hashtags": [],
+          "urls": []
+        },
+        "contributors": null,
+        "truncated": false,
+        "text": "@dmfgtawz_EndWar awesome :)",
+        "created_at": "Thu Nov 27 16:28:20 +0000 2014",
+        "retweeted": false,
+        "in_reply_to_status_id_str": "537988431964807168",
+        "coordinates": null,
+        "in_reply_to_user_id_str": "2767306536",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 537988431964807168,
+        "in_reply_to_screen_name": "dmfgtawz_EndWar",
+        "id_str": "538006419065569280",
+        "place": null,
+        "retweet_count": 0,
+        "geo": null,
+        "id": 538006419065569280,
+        "favorite_count": 0,
+        "in_reply_to_user_id": 2767306536
+      },
+      "is_translation_enabled": false,
+      "utc_offset": null,
+      "statuses_count": 151,
+      "description": "Welcome to /r/TextDataMining! We share news, discussions, videos, papers, software and platforms related to text and data mining. Subscribe on Reddit!",
+      "friends_count": 3771,
+      "location": "Reddit",
+      "profile_link_color": "B30000",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/483993250470969344/_hfa_iHG_normal.jpeg",
+      "following": true,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2598162997/1404229054",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "name": "TextDataMiningReddit",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 13091,
+      "screen_name": "TextMining_r",
+      "notifications": false,
+      "url": "http://t.co/LmkgNxzJp6",
+      "created_at": "Tue Jul 01 15:16:38 +0000 2014",
+      "contributors_enabled": false,
+      "time_zone": null,
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "666666",
+      "default_profile_image": false,
+      "id": 121046433,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/265079383/rotheman3twtbk.jpg",
+      "verified": true,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/525257756811358208/lZfySAH8_normal.jpeg",
+      "profile_sidebar_fill_color": "252429",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 1512655,
+      "profile_sidebar_border_color": "181A1E",
+      "id_str": "121046433",
+      "profile_background_color": "1A1B1F",
+      "listed_count": 2675,
+      "status": {
+        "lang": "en",
+        "favorited": false,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [],
+          "hashtags": [
+            {
+              "indices": [
+                82,
+                93
+              ],
+              "text": "PhilHughes"
+            }
+          ],
+          "urls": []
+        },
+        "contributors": null,
+        "truncated": false,
+        "text": "Saddest day in cricket fraternity. Rest in peace mate and Sean Abbott stay strong #PhilHughes",
+        "created_at": "Thu Nov 27 05:25:57 +0000 2014",
+        "retweeted": false,
+        "in_reply_to_status_id_str": null,
+        "coordinates": null,
+        "in_reply_to_user_id_str": null,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_screen_name": null,
+        "id_str": "537839724648349696",
+        "place": null,
+        "retweet_count": 1755,
+        "geo": null,
+        "id": 537839724648349696,
+        "favorite_count": 1472,
+        "in_reply_to_user_id": null
+      },
+      "is_translation_enabled": false,
+      "utc_offset": 19800,
+      "statuses_count": 1041,
+      "description": "",
+      "friends_count": 37,
+      "location": "",
+      "profile_link_color": "2FC2EF",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/525257756811358208/lZfySAH8_normal.jpeg",
+      "following": true,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/121046433/1404334238",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/265079383/rotheman3twtbk.jpg",
+      "name": "Rohit Sharma",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 3,
+      "screen_name": "ImRo45",
+      "notifications": false,
+      "url": null,
+      "created_at": "Mon Mar 08 08:56:53 +0000 2010",
+      "contributors_enabled": false,
+      "time_zone": "Mumbai",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "333333",
+      "default_profile_image": false,
+      "id": 253536357,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000144594380/r0vOumma.png",
+      "verified": true,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000850926297/a6286c08618d966740207142a62eda84_normal.png",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/HSp8GvQO2A",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://rosetta.esa.int",
+              "display_url": "rosetta.esa.int"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 286566,
+      "profile_sidebar_border_color": "000000",
+      "id_str": "253536357",
+      "profile_background_color": "000F29",
+      "listed_count": 3894,
+      "status": {
+        "contributors": null,
+        "truncated": false,
+        "text": ".@NathanMcKellips my mission at #67P continues throughout next year. Bookmark http://t.co/cWtWnr6dML for updates via my different channels",
+        "in_reply_to_status_id": 538003864101060608,
+        "id": 538005687776083968,
+        "favorite_count": 51,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [
+            {
+              "id": 807693576,
+              "indices": [
+                1,
+                17
+              ],
+              "id_str": "807693576",
+              "screen_name": "NathanMcKellips",
+              "name": "Nathan McKellips"
+            }
+          ],
+          "hashtags": [
+            {
+              "indices": [
+                32,
+                36
+              ],
+              "text": "67P"
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/cWtWnr6dML",
+              "indices": [
+                78,
+                100
+              ],
+              "expanded_url": "http://esa.int/rosetta",
+              "display_url": "esa.int/rosetta"
+            }
+          ]
+        },
+        "in_reply_to_screen_name": "NathanMcKellips",
+        "id_str": "538005687776083968",
+        "retweet_count": 31,
+        "in_reply_to_user_id": 807693576,
+        "favorited": false,
+        "geo": null,
+        "in_reply_to_user_id_str": "807693576",
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Thu Nov 27 16:25:26 +0000 2014",
+        "in_reply_to_status_id_str": "538003864101060608",
+        "place": null
+      },
+      "is_translation_enabled": false,
+      "utc_offset": 3600,
+      "statuses_count": 1216,
+      "description": "I am an ESA space probe at comet 67P/Churyumov-Gerasimenko. I'm studying the comet up close and have sent @philae2014 to its surface",
+      "friends_count": 68,
+      "location": "",
+      "profile_link_color": "00348D",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000850926297/a6286c08618d966740207142a62eda84_normal.png",
+      "following": true,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/253536357/1415824200",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000144594380/r0vOumma.png",
+      "name": "ESA Rosetta Mission",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 383,
+      "screen_name": "ESA_Rosetta",
+      "notifications": false,
+      "url": "http://t.co/HSp8GvQO2A",
+      "created_at": "Thu Feb 17 12:57:16 +0000 2011",
+      "contributors_enabled": false,
+      "time_zone": "Berlin",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "333333",
+      "default_profile_image": false,
+      "id": 78696482,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/507452976789614592/O-LcDpYE.jpeg",
+      "verified": false,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/446680442595336193/keJPARhB_normal.jpeg",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Zrc4rN2VsD",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://www.vincenzochiochia.com",
+              "display_url": "vincenzochiochia.com"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 2161,
+      "profile_sidebar_border_color": "FFFFFF",
+      "id_str": "78696482",
+      "profile_background_color": "022330",
+      "listed_count": 80,
+      "status": {
+        "lang": "en",
+        "favorited": false,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [],
+          "hashtags": [
+            {
+              "indices": [
+                42,
+                55
+              ],
+              "text": "Thanksgiving"
+            }
+          ],
+          "urls": []
+        },
+        "contributors": null,
+        "truncated": false,
+        "text": "For all the US followers out there: happy #Thanksgiving! Enjoy the time with your family and friends!",
+        "created_at": "Thu Nov 27 16:05:18 +0000 2014",
+        "retweeted": false,
+        "in_reply_to_status_id_str": null,
+        "coordinates": null,
+        "in_reply_to_user_id_str": null,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_screen_name": null,
+        "id_str": "538000623971872768",
+        "place": null,
+        "retweet_count": 0,
+        "geo": null,
+        "id": 538000623971872768,
+        "favorite_count": 0,
+        "in_reply_to_user_id": null
+      },
+      "is_translation_enabled": false,
+      "utc_offset": 3600,
+      "statuses_count": 1482,
+      "description": "Particle physicist at LHC @CMSexperiment | Zurich Univ. Prof. | Science & Space, Big Data, Machine Learning & Analytics, Photography | Views are my own",
+      "friends_count": 1966,
+      "location": "Zurich & Geneva aeras",
+      "profile_link_color": "0084B4",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/446680442595336193/keJPARhB_normal.jpeg",
+      "following": true,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/78696482/1393866930",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/507452976789614592/O-LcDpYE.jpeg",
+      "name": "Vincenzo Chiochia",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 5911,
+      "screen_name": "chiochia",
+      "notifications": false,
+      "url": "http://t.co/Zrc4rN2VsD",
+      "created_at": "Wed Sep 30 20:09:53 +0000 2009",
+      "contributors_enabled": false,
+      "time_zone": "Bern",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "333333",
+      "default_profile_image": true,
+      "id": 146889614,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "verified": false,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 22,
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "146889614",
+      "profile_background_color": "C0DEED",
+      "listed_count": 0,
+      "status": {
+        "lang": "en",
+        "favorited": false,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [],
+          "hashtags": [],
+          "urls": []
+        },
+        "contributors": null,
+        "truncated": false,
+        "text": "Enjoying my moments with my son Lakshya . Today morning we wake up at  5:30am and enjoyed playing football...my childhood days are back...",
+        "created_at": "Mon Nov 10 12:49:51 +0000 2014",
+        "retweeted": false,
+        "in_reply_to_status_id_str": null,
+        "coordinates": null,
+        "in_reply_to_user_id_str": null,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_screen_name": null,
+        "id_str": "531790840851886080",
+        "place": null,
+        "retweet_count": 0,
+        "geo": null,
+        "id": 531790840851886080,
+        "favorite_count": 0,
+        "in_reply_to_user_id": null
+      },
+      "is_translation_enabled": false,
+      "utc_offset": null,
+      "statuses_count": 2,
+      "description": "",
+      "friends_count": 5,
+      "location": "",
+      "profile_link_color": "0084B4",
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png",
+      "following": true,
+      "geo_enabled": false,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "name": "Avinash",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 0,
+      "screen_name": "avi_khandelwal",
+      "notifications": false,
+      "url": null,
+      "created_at": "Sat May 22 16:18:08 +0000 2010",
+      "contributors_enabled": false,
+      "time_zone": null,
+      "protected": false,
+      "default_profile": true,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "333333",
+      "default_profile_image": false,
+      "id": 17449590,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/8768305/SDC_Twitter02.jpg",
+      "verified": false,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/122242429/SDC_profile01_normal.png",
+      "profile_sidebar_fill_color": "F1F4F8",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/2eHiIph5t7",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://smartdatacollective.com",
+              "display_url": "smartdatacollective.com"
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "http://t.co/gGFJnIS4Gy",
+              "indices": [
+                89,
+                111
+              ],
+              "expanded_url": "http://Today.com",
+              "display_url": "Today.com"
+            }
+          ]
+        }
+      },
+      "followers_count": 18329,
+      "profile_sidebar_border_color": "C2CDD1",
+      "id_str": "17449590",
+      "profile_background_color": "FFFFFF",
+      "listed_count": 1312,
+      "status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "Gaming the business forecast, via @mvgilliland #DataForecasting http://t.co/RzM2LKlk2G",
+        "in_reply_to_status_id": null,
+        "id": 538078643990577152,
+        "favorite_count": 0,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [
+            {
+              "id": 19790939,
+              "indices": [
+                34,
+                46
+              ],
+              "id_str": "19790939",
+              "screen_name": "mvgilliland",
+              "name": "Michael Gilliland"
+            }
+          ],
+          "hashtags": [
+            {
+              "indices": [
+                47,
+                63
+              ],
+              "text": "DataForecasting"
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/RzM2LKlk2G",
+              "indices": [
+                64,
+                86
+              ],
+              "expanded_url": "http://ow.ly/EQeTd",
+              "display_url": "ow.ly/EQeTd"
+            }
+          ]
+        },
+        "in_reply_to_screen_name": null,
+        "id_str": "538078643990577152",
+        "retweet_count": 0,
+        "in_reply_to_user_id": null,
+        "favorited": false,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Thu Nov 27 21:15:20 +0000 2014",
+        "in_reply_to_status_id_str": null,
+        "place": null
+      },
+      "is_translation_enabled": false,
+      "utc_offset": -18000,
+      "statuses_count": 22926,
+      "description": "Expert writers on analytics, BI and big data brought to you by the folks at Social Media http://t.co/gGFJnIS4Gy",
+      "friends_count": 438,
+      "location": "",
+      "profile_link_color": "006EC2",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/122242429/SDC_profile01_normal.png",
+      "following": true,
+      "geo_enabled": false,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/8768305/SDC_Twitter02.jpg",
+      "name": "SmartData Collective",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 6,
+      "screen_name": "SmartDataCo",
+      "notifications": false,
+      "url": "http://t.co/2eHiIph5t7",
+      "created_at": "Mon Nov 17 20:30:31 +0000 2008",
+      "contributors_enabled": false,
+      "time_zone": "Eastern Time (US & Canada)",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "333333",
+      "default_profile_image": false,
+      "id": 50010864,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705297303/d49ac7b3744f3e9c720d5502c2d77062.gif",
+      "verified": false,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/278515598/logo_predictive_analytics_worldv3_normal.gif",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/iK79445TBg",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://www.predictiveanalyticsworld.com",
+              "display_url": "predictiveanalyticsworld.com"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 9505,
+      "profile_sidebar_border_color": "FFFFFF",
+      "id_str": "50010864",
+      "profile_background_color": "C0DEED",
+      "listed_count": 361,
+      "status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "RT @KirkDBorne: Several 2015 Predictive #Analytics World conferences: http://t.co/zAtCClJhbG #abdsc via @pawcon @DataScienceCtrl #BigData #…",
+        "in_reply_to_status_id": null,
+        "id": 537676110516191232,
+        "favorite_count": 0,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [
+            {
+              "id": 534563976,
+              "indices": [
+                3,
+                14
+              ],
+              "id_str": "534563976",
+              "screen_name": "KirkDBorne",
+              "name": "Kirk Borne"
+            },
+            {
+              "id": 50010864,
+              "indices": [
+                104,
+                111
+              ],
+              "id_str": "50010864",
+              "screen_name": "pawcon",
+              "name": "Predictive Analytics"
+            },
+            {
+              "id": 393033324,
+              "indices": [
+                112,
+                128
+              ],
+              "id_str": "393033324",
+              "screen_name": "DataScienceCtrl",
+              "name": "Data Science Central"
+            }
+          ],
+          "hashtags": [
+            {
+              "indices": [
+                40,
+                50
+              ],
+              "text": "Analytics"
+            },
+            {
+              "indices": [
+                93,
+                99
+              ],
+              "text": "abdsc"
+            },
+            {
+              "indices": [
+                129,
+                137
+              ],
+              "text": "BigData"
+            },
+            {
+              "indices": [
+                139,
+                140
+              ],
+              "text": "DataScience"
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/zAtCClJhbG",
+              "indices": [
+                70,
+                92
+              ],
+              "expanded_url": "http://bit.ly/1AOdyTc",
+              "display_url": "bit.ly/1AOdyTc"
+            }
+          ]
+        },
+        "in_reply_to_screen_name": null,
+        "id_str": "537676110516191232",
+        "retweet_count": 12,
+        "in_reply_to_user_id": null,
+        "favorited": false,
+        "retweeted_status": {
+          "contributors": null,
+          "truncated": false,
+          "text": "Several 2015 Predictive #Analytics World conferences: http://t.co/zAtCClJhbG #abdsc via @pawcon @DataScienceCtrl #BigData #DataScience",
+          "in_reply_to_status_id": null,
+          "id": 537392973924007936,
+          "favorite_count": 7,
+          "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+          "retweeted": false,
+          "coordinates": null,
+          "entities": {
+            "symbols": [],
+            "user_mentions": [
+              {
+                "id": 50010864,
+                "indices": [
+                  88,
+                  95
+                ],
+                "id_str": "50010864",
+                "screen_name": "pawcon",
+                "name": "Predictive Analytics"
+              },
+              {
+                "id": 393033324,
+                "indices": [
+                  96,
+                  112
+                ],
+                "id_str": "393033324",
+                "screen_name": "DataScienceCtrl",
+                "name": "Data Science Central"
+              }
+            ],
+            "hashtags": [
+              {
+                "indices": [
+                  24,
+                  34
+                ],
+                "text": "Analytics"
+              },
+              {
+                "indices": [
+                  77,
+                  83
+                ],
+                "text": "abdsc"
+              },
+              {
+                "indices": [
+                  113,
+                  121
+                ],
+                "text": "BigData"
+              },
+              {
+                "indices": [
+                  122,
+                  134
+                ],
+                "text": "DataScience"
+              }
+            ],
+            "urls": [
+              {
+                "url": "http://t.co/zAtCClJhbG",
+                "indices": [
+                  54,
+                  76
+                ],
+                "expanded_url": "http://bit.ly/1AOdyTc",
+                "display_url": "bit.ly/1AOdyTc"
+              }
+            ]
+          },
+          "in_reply_to_screen_name": null,
+          "id_str": "537392973924007936",
+          "retweet_count": 12,
+          "in_reply_to_user_id": null,
+          "favorited": false,
+          "geo": null,
+          "in_reply_to_user_id_str": null,
+          "possibly_sensitive": false,
+          "lang": "en",
+          "created_at": "Tue Nov 25 23:50:43 +0000 2014",
+          "in_reply_to_status_id_str": null,
+          "place": {
+            "full_name": "Washington, DC",
+            "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+            "country": "United States",
+            "place_type": "city",
+            "bounding_box": {
+              "type": "Polygon",
+              "coordinates": [
+                [
+                  [
+                    -77.119401,
+                    38.801826
+                  ],
+                  [
+                    -76.909396,
+                    38.801826
+                  ],
+                  [
+                    -76.909396,
+                    38.9953797
+                  ],
+                  [
+                    -77.119401,
+                    38.9953797
+                  ]
+                ]
+              ]
+            },
+            "contained_within": [],
+            "country_code": "US",
+            "attributes": {},
+            "id": "01fbe706f872cb32",
+            "name": "Washington"
+          }
+        },
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Wed Nov 26 18:35:48 +0000 2014",
+        "in_reply_to_status_id_str": null,
+        "place": null
+      },
+      "is_translation_enabled": false,
+      "utc_offset": null,
+      "statuses_count": 2807,
+      "description": "Predictive Analytics World is the business-focused event for predictive analytics professionals, managers and commercial practitioners.",
+      "friends_count": 5898,
+      "location": "",
+      "profile_link_color": "0084B4",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/278515598/logo_predictive_analytics_worldv3_normal.gif",
+      "following": true,
+      "geo_enabled": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/50010864/1402330851",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705297303/d49ac7b3744f3e9c720d5502c2d77062.gif",
+      "name": "Predictive Analytics",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 5,
+      "screen_name": "pawcon",
+      "notifications": false,
+      "url": "http://t.co/iK79445TBg",
+      "created_at": "Tue Jun 23 15:45:17 +0000 2009",
+      "contributors_enabled": false,
+      "time_zone": null,
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "333333",
+      "default_profile_image": false,
+      "id": 704616367,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/447017710266765312/eFQSY60H.jpeg",
+      "verified": false,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/447018039246999552/-6E7TFl5_normal.jpeg",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/o5puTsubSH",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://trustev.com",
+              "display_url": "trustev.com"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 2458,
+      "profile_sidebar_border_color": "000000",
+      "id_str": "704616367",
+      "profile_background_color": "131516",
+      "listed_count": 78,
+      "status": {
+        "lang": "en",
+        "favorited": false,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [
+            {
+              "id": 6484432,
+              "indices": [
+                0,
+                11
+              ],
+              "id_str": "6484432",
+              "screen_name": "destraynor",
+              "name": "Des Traynor"
+            }
+          ],
+          "hashtags": [],
+          "urls": []
+        },
+        "contributors": null,
+        "truncated": false,
+        "text": "@destraynor Wow, we don't use Silverlight (or so I thought). Thx for the heads-up, we'll look into it.",
+        "created_at": "Wed Nov 26 23:54:57 +0000 2014",
+        "retweeted": false,
+        "in_reply_to_status_id_str": "537755437328646146",
+        "coordinates": null,
+        "in_reply_to_user_id_str": "6484432",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 537755437328646146,
+        "in_reply_to_screen_name": "destraynor",
+        "id_str": "537756425234427905",
+        "place": null,
+        "retweet_count": 0,
+        "geo": null,
+        "id": 537756425234427905,
+        "favorite_count": 0,
+        "in_reply_to_user_id": 6484432
+      },
+      "is_translation_enabled": false,
+      "utc_offset": 0,
+      "statuses_count": 1023,
+      "description": "Eliminating Online Fraud through real time identity verification. Voted Europe's Top Technology Startup by EU. Forbes Hottest Global Startup. Winner #SXSW",
+      "friends_count": 515,
+      "location": "Ireland/New York/Global",
+      "profile_link_color": "009999",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/447018039246999552/-6E7TFl5_normal.jpeg",
+      "following": true,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/704616367/1394327156",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/447017710266765312/eFQSY60H.jpeg",
+      "name": "Trustev",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 108,
+      "screen_name": "trustev",
+      "notifications": false,
+      "url": "http://t.co/o5puTsubSH",
+      "created_at": "Thu Jul 19 08:03:14 +0000 2012",
+      "contributors_enabled": false,
+      "time_zone": "London",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "BD6AA0",
+      "default_profile_image": false,
+      "id": 369037907,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/793396465/51b1b026c9555d62dd553d18b71d02ea.jpeg",
+      "verified": true,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/514390019843162112/kxqSkqAi_normal.jpeg",
+      "profile_sidebar_fill_color": "E6D4B5",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 192865,
+      "profile_sidebar_border_color": "FFFFFF",
+      "id_str": "369037907",
+      "profile_background_color": "F08BD9",
+      "listed_count": 424,
+      "status": {
+        "lang": "en",
+        "favorited": false,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [
+            {
+              "id": 36389028,
+              "indices": [
+                1,
+                14
+              ],
+              "id_str": "36389028",
+              "screen_name": "DeanoBugatti",
+              "name": "Deano Bugatti"
+            },
+            {
+              "id": 369037907,
+              "indices": [
+                16,
+                30
+              ],
+              "id_str": "369037907",
+              "screen_name": "iamAmyJackson",
+              "name": "Amy Jackson"
+            }
+          ],
+          "hashtags": [],
+          "urls": []
+        },
+        "contributors": null,
+        "truncated": false,
+        "text": "“@DeanoBugatti: @iamAmyJackson enjoying yaself pet? 😃” Having a 🎾 Buggs! Back to London in a few days xxx",
+        "created_at": "Thu Nov 27 15:11:42 +0000 2014",
+        "retweeted": false,
+        "in_reply_to_status_id_str": "537755280533385216",
+        "coordinates": null,
+        "in_reply_to_user_id_str": "36389028",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 537755280533385216,
+        "in_reply_to_screen_name": "DeanoBugatti",
+        "id_str": "537987131608547329",
+        "place": null,
+        "retweet_count": 3,
+        "geo": null,
+        "id": 537987131608547329,
+        "favorite_count": 26,
+        "in_reply_to_user_id": 36389028
+      },
+      "is_translation_enabled": false,
+      "utc_offset": 0,
+      "statuses_count": 4783,
+      "description": "Actress \n\n\nMGMT info@ndear.co.uk",
+      "friends_count": 482,
+      "location": "England to India ",
+      "profile_link_color": "8FBDE6",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/514390019843162112/kxqSkqAi_normal.jpeg",
+      "following": true,
+      "geo_enabled": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/369037907/1414932063",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/793396465/51b1b026c9555d62dd553d18b71d02ea.jpeg",
+      "name": "Amy Jackson",
+      "lang": "en",
+      "profile_background_tile": true,
+      "favourites_count": 832,
+      "screen_name": "iamAmyJackson",
+      "notifications": false,
+      "url": null,
+      "created_at": "Tue Sep 06 17:14:44 +0000 2011",
+      "contributors_enabled": false,
+      "time_zone": "Casablanca",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "333333",
+      "default_profile_image": false,
+      "id": 861765444,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "verified": false,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3279326193/1b37fc470487e9fc2e0deb6a5dcc6fa3_normal.png",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/7KubWsIQp1",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://businessintelligence.com",
+              "display_url": "businessintelligence.com"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 2343,
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "861765444",
+      "profile_background_color": "C0DEED",
+      "listed_count": 80,
+      "status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "Game-changer: The impact of #BigData in the #NBA http://t.co/FvO4oumci1",
+        "in_reply_to_status_id": null,
+        "id": 538014714945871872,
+        "favorite_count": 1,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [],
+          "hashtags": [
+            {
+              "indices": [
+                28,
+                36
+              ],
+              "text": "BigData"
+            },
+            {
+              "indices": [
+                44,
+                48
+              ],
+              "text": "NBA"
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/FvO4oumci1",
+              "indices": [
+                49,
+                71
+              ],
+              "expanded_url": "http://bit.ly/120rryr",
+              "display_url": "bit.ly/120rryr"
+            }
+          ]
+        },
+        "in_reply_to_screen_name": null,
+        "id_str": "538014714945871872",
+        "retweet_count": 0,
+        "in_reply_to_user_id": null,
+        "favorited": false,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Thu Nov 27 17:01:18 +0000 2014",
+        "in_reply_to_status_id_str": null,
+        "place": null
+      },
+      "is_translation_enabled": false,
+      "utc_offset": null,
+      "statuses_count": 1366,
+      "description": "Bringing to you all the latest in the world of business intelligence #BI #BigData",
+      "friends_count": 1709,
+      "location": "",
+      "profile_link_color": "0084B4",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3279326193/1b37fc470487e9fc2e0deb6a5dcc6fa3_normal.png",
+      "following": true,
+      "geo_enabled": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/861765444/1398195181",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "name": "BusinessIntelligence",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 328,
+      "screen_name": "BIdotcom",
+      "notifications": false,
+      "url": "http://t.co/7KubWsIQp1",
+      "created_at": "Thu Oct 04 17:42:18 +0000 2012",
+      "contributors_enabled": false,
+      "time_zone": null,
+      "protected": false,
+      "default_profile": true,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "333333",
+      "default_profile_image": false,
+      "id": 7302472,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/869121217/8a968a57fe338b56d330f76a1a78b687.jpeg",
+      "verified": false,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/471073420315467776/ypV1NAtd_normal.jpeg",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/4MrQGNqRYh",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://www.thebagelves.com",
+              "display_url": "thebagelves.com"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 494,
+      "profile_sidebar_border_color": "FFFFFF",
+      "id_str": "7302472",
+      "profile_background_color": "99F0FA",
+      "listed_count": 56,
+      "status": {
+        "lang": "en",
+        "favorited": false,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [
+            {
+              "id": 1879051717,
+              "indices": [
+                27,
+                42
+              ],
+              "id_str": "1879051717",
+              "screen_name": "codeforall_ire",
+              "name": "Code for Ireland"
+            }
+          ],
+          "hashtags": [],
+          "urls": []
+        },
+        "contributors": null,
+        "truncated": false,
+        "text": "Happy first anniversary to @codeforall_ire =:) who needed cake anyways? there was fantastic pizza to be had.",
+        "created_at": "Thu Nov 27 22:16:41 +0000 2014",
+        "retweeted": false,
+        "in_reply_to_status_id_str": null,
+        "coordinates": null,
+        "in_reply_to_user_id_str": null,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_screen_name": null,
+        "id_str": "538094083735302144",
+        "place": null,
+        "retweet_count": 1,
+        "geo": null,
+        "id": 538094083735302144,
+        "favorite_count": 1,
+        "in_reply_to_user_id": null
+      },
+      "is_translation_enabled": false,
+      "utc_offset": 0,
+      "statuses_count": 14803,
+      "description": "Full time nerd from Dublin, Coder, Music Lover, Blogger. Doctor Who fan. I like to tell you what I think. Runner of @maryscomptclub. @coderdojodcu mentor.",
+      "friends_count": 759,
+      "location": "Dublin , Ireland",
+      "profile_link_color": "05FFA3",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/471073420315467776/ypV1NAtd_normal.jpeg",
+      "following": true,
+      "geo_enabled": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/7302472/1348073493",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/869121217/8a968a57fe338b56d330f76a1a78b687.jpeg",
+      "name": "Vanessa Greene",
+      "lang": "en",
+      "profile_background_tile": true,
+      "favourites_count": 179,
+      "screen_name": "dalekmad",
+      "notifications": false,
+      "url": "http://t.co/4MrQGNqRYh",
+      "created_at": "Fri Jul 06 21:56:38 +0000 2007",
+      "contributors_enabled": false,
+      "time_zone": "Dublin",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "333333",
+      "default_profile_image": true,
+      "id": 2886547424,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "verified": false,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 3,
+      "profile_sidebar_border_color": "C0DEED",
+      "id_str": "2886547424",
+      "profile_background_color": "C0DEED",
+      "listed_count": 0,
+      "is_translation_enabled": false,
+      "utc_offset": null,
+      "statuses_count": 0,
+      "description": "",
+      "friends_count": 9,
+      "location": "",
+      "profile_link_color": "0084B4",
+      "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_5_normal.png",
+      "following": true,
+      "geo_enabled": false,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "name": "Linash Zargar",
+      "lang": "en",
+      "profile_background_tile": false,
+      "favourites_count": 0,
+      "screen_name": "LinashZ",
+      "notifications": false,
+      "url": null,
+      "created_at": "Sat Nov 01 17:13:50 +0000 2014",
+      "contributors_enabled": false,
+      "time_zone": null,
+      "protected": false,
+      "default_profile": true,
+      "is_translator": false
+    },
+    {
+      "follow_request_sent": false,
+      "profile_use_background_image": true,
+      "profile_text_color": "333333",
+      "default_profile_image": false,
+      "id": 329816616,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437935611/2690294056_9d60f6f01e_o.jpeg",
+      "verified": true,
+      "profile_location": null,
+      "muting": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/344513261573042139/43300f8d4bec2b930342a47dc724ff20_normal.jpeg",
+      "profile_sidebar_fill_color": "EDEDED",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/FndMZ7xfz9",
+              "indices": [
+                0,
+                22
+              ],
+              "expanded_url": "http://coderdojo.com",
+              "display_url": "coderdojo.com"
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "followers_count": 15354,
+      "profile_sidebar_border_color": "870808",
+      "id_str": "329816616",
+      "profile_background_color": "262526",
+      "listed_count": 444,
+      "status": {
+        "contributors": null,
+        "truncated": false,
+        "text": "Congrats to @laurenboyletech who taught @EndaKennyTD his first line of code today! That's awesome! #powerfulplay http://t.co/9doftP2rd3",
+        "in_reply_to_status_id": null,
+        "id": 538073542638977024,
+        "favorite_count": 5,
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "retweeted": false,
+        "coordinates": null,
+        "entities": {
+          "symbols": [],
+          "user_mentions": [
+            {
+              "id": 2821357601,
+              "indices": [
+                12,
+                28
+              ],
+              "id_str": "2821357601",
+              "screen_name": "laurenboyletech",
+              "name": "Lauren Boyle"
+            },
+            {
+              "id": 135514272,
+              "indices": [
+                40,
+                52
+              ],
+              "id_str": "135514272",
+              "screen_name": "EndaKennyTD",
+              "name": "Enda Kenny"
+            }
+          ],
+          "hashtags": [
+            {
+              "indices": [
+                99,
+                112
+              ],
+              "text": "powerfulplay"
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/9doftP2rd3",
+              "indices": [
+                113,
+                135
+              ],
+              "expanded_url": "http://ow.ly/EZbIy",
+              "display_url": "ow.ly/EZbIy"
+            }
+          ]
+        },
+        "in_reply_to_screen_name": null,
+        "id_str": "538073542638977024",
+        "retweet_count": 4,
+        "in_reply_to_user_id": null,
+        "favorited": false,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "possibly_sensitive": false,
+        "lang": "en",
+        "created_at": "Thu Nov 27 20:55:04 +0000 2014",
+        "in_reply_to_status_id_str": null,
+        "place": null
+      },
+      "is_translation_enabled": false,
+      "utc_offset": 0,
+      "statuses_count": 8073,
+      "description": "#CoderDojo is a global movement of free volunteer coding clubs where young people learn to code, hack, develop websites, apps, games and more!",
+      "friends_count": 0,
+      "location": "Worldwide",
+      "profile_link_color": "F26100",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/344513261573042139/43300f8d4bec2b930342a47dc724ff20_normal.jpeg",
+      "following": true,
+      "geo_enabled": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/329816616/1354791851",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437935611/2690294056_9d60f6f01e_o.jpeg",
+      "name": "CoderDojo",
+      "lang": "en",
+      "profile_background_tile": true,
+      "favourites_count": 9528,
+      "screen_name": "CoderDojo",
+      "notifications": false,
+      "url": "http://t.co/FndMZ7xfz9",
+      "created_at": "Tue Jul 05 17:24:40 +0000 2011",
+      "contributors_enabled": false,
+      "time_zone": "Dublin",
+      "protected": false,
+      "default_profile": false,
+      "is_translator": false
+    }
+  ],
+  "next_cursor_str": "1483871396973006443"
+}
