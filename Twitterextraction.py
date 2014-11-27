@@ -1,6 +1,9 @@
 #http://stackoverflow.com/questions/26965624/cant-import-requests-oauthlib
 #https://dev.twitter.com/rest/reference/get/friends/list
 
+#http://www.academia.edu/8460155/Plotting_spatial_data_in_R_using_ggplot2
+#http://www.milanor.net/blog/?p=594
+
 import pprint
 import twitter
 import requests
