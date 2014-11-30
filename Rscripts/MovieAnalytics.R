@@ -80,7 +80,7 @@ if(Sys.info()["user"] == 'achoudhary'){
 }else{
   path = "/Users/abhishekchoudhary/Work/python/recommend/updated1.csv"
   movies <- read.csv("/Users/abhishekchoudhary/Work/python/recommend/updated1.csv",header=TRUE, stringsAsFactors=FALSE,fileEncoding="latin1")
-}model
+}
 
 
 
