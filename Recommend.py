@@ -125,7 +125,7 @@ class FindDistance(object):
             df2.imdbVotes.fillna(random.randint(8000, 12000), inplace=True)
             df2.Genre.fillna("-", inplace=True)
 
-            df2.to_csv("updated.csv", sep=',')
+            df2.to_csv("updated_1.csv", sep=',')
 
 
 
@@ -370,8 +370,6 @@ user1, user2, user3, user4 = "Berchman Mathews", "Zuber Ahmed", "Gaurav Shrivast
 
 # http://docs.scipy.org/doc/scipy-0.14.0/reference/spatial.distance.html
 
-val1 = (1, 2)
-val2 = (9, 14)
 
 findDistance = FindDistance(df, df2)
 
@@ -381,12 +379,13 @@ findDistance = FindDistance(df, df2)
 # print "Basic Euclea..Test ",commonMovies
 
 suggestedMoviesList = findDistance.commonmovies(user3)
+'''
 print "AFTER BAKBAJI \n\nTotal Movies Found %s \n\nLength %s -- %s"%(suggestedMoviesList.head(),len(suggestedMoviesList),suggestedMoviesList.MOVIE.irow(1))
 print "\n\n\n=------------------------------="
 print "DISTANCE CALCULATION ",findDistance.recommendMovie(user1,suggestedMoviesList.MOVIE.irow(1))
 
 output = findDistance.findSimilarityBetweenMovies(suggestedMoviesList.MOVIE[0:10])
-
+'''
 
 HEADER = '''
 <html>
