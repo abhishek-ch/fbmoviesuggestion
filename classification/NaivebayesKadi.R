@@ -175,18 +175,6 @@ layout(matrix(1))
 
 
 
-##########################Feature Modelling#####################################################
-
-library(topicmodels)
-dtm <- as.DocumentTermMatrix(tdm)
-lda <- LDA(dtm, k = 8)
-term <- terms(lda, 4) # first 4 terms of every topic
-
-topic <- topics(freq.terms, 1)
-
-
-
-
 
 
 ####################################Using Naive Bayes#############################
@@ -210,17 +198,32 @@ classlab <- as.factor(names(train))
 twitternaive <- naiveBayes(train,classlab[train],laplace = 1)
 predict <- predict(twitternaive,test[,1:10])
 table(predict,test)
-###############################Plotting####################
-
-mydata.df <- as.data.frame(inspect(corpus1))
 
 
-mydata.df.scale <- scale(mydata.df)
-d <- dist(mydata.df.scale, method = "euclidean") # distance matrix
-fit <- hclust(d)
-plot(fit) # display dendogram?
 
-groups <- cutree(fit, k=5) # cut tree into 5 clusters
-# draw dendogram with red borders around the 5 clusters
-rect.hclust(fit, k=5, border="red")
+###############################Naive Bayes Examples####################
 
+library(e1071)
+df = read.table("C:/Users/achoudhary/Downloads/iHealth/iHealth/i-01", 
+               sep="\t", 
+               col.names=c("interest", "currlevel","motivated","tectcomfort","model"), 
+               fill=FALSE, 
+               strip.white=TRUE)
+View(df)
+prop.table(table(df$model))
+trainIndex <- sample(nrow(df), 10)
+train <- df[trainIndex, ]
+test <- df[-trainIndex,]
+
+
+naiveModel <- naiveBayes(model~.,data=train,laplace=1.0)
+table(predict(naiveModel,test[1:4]))
+
+model1 = lm(model~., data = df)
+
+#to find how many variables suit the best
+step(model1, direction="backward")
+
+
+te <- data.frame(interest="appearance",currlevel="moderate",tectcomfort="aggressive",model="no")
+table(predict(naiveModel,te))
