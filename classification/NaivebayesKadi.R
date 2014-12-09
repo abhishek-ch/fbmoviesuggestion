@@ -155,6 +155,37 @@ for(i in 1:k){
 #Manhattan Distance
 
 manhatResult <- pamk(m3,metric = "manhattan")
+k <- manhatResult$nc
+pamResult <- manhatResult$pamobject
+
+for (i in 1:k) {
+  cat("cluster", i, ": ",
+      colnames(pamResult$medoids)[which(pamResult$medoids[i,]==1)], "\n")
+}
+
+# plot clustering result
+layout(matrix(c(1, 2), 1, 2)) # set to two graphs per page
+plot(pamResult, col.p = pamResult$clustering)
+layout(matrix(1)) 
+
+
+
+
+
+
+
+
+##########################Feature Modelling#####################################################
+
+library(topicmodels)
+dtm <- as.DocumentTermMatrix(tdm)
+lda <- LDA(dtm, k = 8)
+term <- terms(lda, 4) # first 4 terms of every topic
+
+topic <- topics(freq.terms, 1)
+
+
+
 
 
 
