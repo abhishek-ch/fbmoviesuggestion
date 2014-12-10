@@ -210,20 +210,25 @@ df = read.table("C:/Users/achoudhary/Downloads/iHealth/iHealth/i-01",
                fill=FALSE, 
                strip.white=TRUE)
 View(df)
-prop.table(table(df$model))
+prop.table(table(df$motivated))
 trainIndex <- sample(nrow(df), 10)
 train <- df[trainIndex, ]
 test <- df[-trainIndex,]
 
 
-naiveModel <- naiveBayes(model~.,data=train,laplace=1.0)
+naiveModel <- naiveBayes(model~.,data=train,laplace=2.0)
 table(predict(naiveModel,test[1:4]))
 
-model1 = lm(model~., data = df)
+#DF <- as.data.frame(unclass(df))
+#model1 = lm(model~., data = DF)
 
 #to find how many variables suit the best
-step(model1, direction="backward")
+#step(model1, direction="backward")
 
 
-te <- data.frame(interest="appearance",currlevel="moderate",tectcomfort="aggressive",model="no")
+te <- data.frame(interest="both",currlevel="sedentary",motivated="moderate",tectcomfort="yes")
 table(predict(naiveModel,te))
+
+
+
+
