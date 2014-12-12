@@ -24,7 +24,7 @@ traindata <- sapply(mach_tweets, function(x) x$getText())
 tweetsDF <- do.call("rbind", lapply(mach_tweets, as.data.frame))
 ##View(traindata)
 
-trendword <- traindata
+trendword <- tweetsDF$text
 # remove retweet entities
 trendword = gsub("(RT|via)((?:\\b\\W*@\\w+)+)", "", trendword)
 # remove at people
@@ -41,6 +41,13 @@ trendword = gsub("\n", "", trendword)
 trendword = gsub("U+[a-zA-Z0-9]{0,10}", "", trendword)
 #replace all non-english text from Corpus
 trendword = str_replace_all(trendword, '[^(a-zA-Z0-9!@#$%&*(_) ]+', "")
+
+
+##Clean the data more
+distinct <- unique(trendword)
+distinct=str_replace_all(distinct,"[^[:graph:]]", " ") 
+write.table(distinct, file = "foo5.csv",sep = ",", col.names = NA,
+            qmethod = "double")
 
 
 corpus <- Corpus(VectorSource(trendword))
