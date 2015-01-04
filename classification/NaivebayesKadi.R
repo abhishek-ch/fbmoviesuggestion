@@ -14,7 +14,7 @@ library(SnowballC)
 library(stringr)
 
 setup_twitter_oauth(apiKey,apiSecret,access_token,access_token_secret)
-mach_tweets = searchTwitter("#DelhiShamedAgain", n=5000)
+mach_tweets = searchTwitter("#movies", n=5000)
 traindata <- sapply(mach_tweets, function(x) x$getText())
 
 
@@ -28,6 +28,8 @@ trendword <- tweetsDF$text
 # remove retweet entities
 trendword = gsub("(RT|via)((?:\\b\\W*@\\w+)+)", "", trendword)
 # remove at people
+trendword = gsub("#movies", "", trendword)
+trendword = gsub("#Movies", "", trendword)
 trendword = gsub("@\\w+", "", trendword)
 trendword = gsub("ur", "", trendword)
 # remove punctuation
@@ -35,8 +37,10 @@ trendword = gsub("[[:punct:]]", "", trendword)
 # remove numbers
 trendword = gsub("[[:digit:]]", "", trendword)
 # remove html links
+trendword = gsub("http:.+", "", trendword)
 trendword = gsub("http\\w+", "", trendword)
 trendword = gsub("\n", "", trendword)
+trendword = gsub(":", "", trendword)
 #cleaning the special charaters which mostly comes from twitter data
 trendword = gsub("U+[a-zA-Z0-9]{0,10}", "", trendword)
 #replace all non-english text from Corpus
@@ -45,8 +49,11 @@ trendword = str_replace_all(trendword, '[^(a-zA-Z0-9!@#$%&*(_) ]+', "")
 
 ##Clean the data more
 distinct <- unique(trendword)
+Encoding(distinct) <- "UTF-8"
+distinct <- iconv(distinct, "UTF-8", "UTF-8",sub='') ## replace any non UTF-8 by ''
+
 distinct=str_replace_all(distinct,"[^[:graph:]]", " ") 
-write.table(distinct, file = "foo5.csv",sep = ",", col.names = NA,
+write.table(distinct, file = "movies1.csv",sep = ",", col.names = NA,
             qmethod = "double")
 
 
